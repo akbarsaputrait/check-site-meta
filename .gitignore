@@ -43,4 +43,3 @@ next-env.d.ts
 /bin/standalone
 
 /bin/check-site-meta.js
-config.bat
